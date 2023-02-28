@@ -1,0 +1,8 @@
+/* Image style */
+#scrollUp {
+    background-image: url("../image/top.png");
+    bottom: 30px;
+    right: 40px;
+    width: 38px;    /* Width of image */
+    height: 38px;   /* Height of image */
+}
